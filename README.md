@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Technologies & Tools
 `React.js`, `Node.js`, `Express.js`,`HTML5`, `CSS3`, `JavaScript`, `Bootstrap`, `ES6`, `Sass`, `Material-UI`, `MongoDB`, `FireBase`, `ASP.NET`, `C#`, `Java`, `Android`, `MySQL`, `T-SQL`, `Git`, `SAP Crystal Reports`
-</br>
+</br></br>
 `Visual Studio Code`, `Heroku`, `Netify`, `NetBeans`, `Microsoft Visual Studio`, `SAP Crystal Reports`, `Android Studio`, `Microsoft SQL Server`, `Sublime Text`, `Notepad++`, `Discord`
 <!-- <img Align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img Align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
