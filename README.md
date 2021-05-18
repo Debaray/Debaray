@@ -1,5 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Debaray/Debaray/main/wave.gif" width="50px">
-
+### I am Debashis Ray, I'm a Software Engineer. I love to learn new technologies and take new challenges.
 - 👋 Hi, I’m @Debaray
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
