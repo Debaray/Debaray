@@ -33,15 +33,18 @@ You can click the Preview link to take a look at your changes.
 <img Align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img Align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img Align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</br>
+</br>
+</br>
+</br>
 
-
-</br>
-</br>
-</br>
-</br>
 ## Overview
 
-[![Debashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debaray&count_private=true&show_icons=true&theme=radical)](https://github.com/Debaray/github-readme-stats)
-</br>
-</br>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Debaray&layout=compact&theme=tokyonight)](https://github.com/Debaray)
+
+</br>
+</br>
+
+[![Debashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debaray&count_private=true&show_icons=true&theme=radical)](https://github.com/Debaray/github-readme-stats)
+
+
