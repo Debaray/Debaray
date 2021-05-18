@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Debaray/main/wave.gif" width="50px">
+# Hello, there! <img src="https://raw.githubusercontent.com/Debaray/Debaray/main/wave.gif" width="50px">
 
 - 👋 Hi, I’m @Debaray
 - 👀 I’m interested in ...
